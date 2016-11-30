@@ -1,0 +1,15 @@
+
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
+*.rar
+
+
+npm-debug.log
+node_modules
+node_modules-haha
+
